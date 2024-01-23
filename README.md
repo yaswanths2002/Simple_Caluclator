@@ -24,14 +24,11 @@ Follow these steps to run the program:
    git clone https://github.com/yaswanths2002/Simple_Caluclator.git
    ```
 
-   2. Navigate to the project directory:
-
+ 2. Navigate to the project directory:
     ```shell
     cd Simple_Caluclator
     ```
-
-    3. Build the program:
-
+ 3. Build the program:
     ```shell
     cargo build
     ```
